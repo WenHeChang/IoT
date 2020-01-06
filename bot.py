@@ -47,10 +47,10 @@ def handle_message(event):
        res=round(temperature,5)
     elif(event.message.text=='humidity'):
        res=round(humidity,5)
-    elif(event.message.text==‘open’):
+    elif(event.message.text==‘turn on’):
        os.system(‘irsend SEND_ONCE $your_controller_name your_namespace’)
        res="opened already"
-    elif(event.message.text==‘close’):
+    elif(event.message.text==‘turn off’):
        os.system(‘irsend SEND_ONCE $your_controller_name your_namespace’)
        res="closed already"
     else:
