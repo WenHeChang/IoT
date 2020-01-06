@@ -229,7 +229,7 @@ sudo service lircd stop
 7. 若使用者想知道溫度or濕度，則執行溫濕度的程式碼，並回傳結果
 8. 若使用者想開關冷氣，則執行程式碼os.system搭配開關冷氣指令。
 
-參考資料：
+參考資料：</br> 
 [1] https://developers.line.biz/zh-hant/docs/messaging-api/overview/ </br> 
 [2] https://xiaosean.github.io/server/2018-04-18-Flask_Ngrok/ </br>
 [3] https://missterhao.me/2017/08/15/line-bot-dev-1 </br>
