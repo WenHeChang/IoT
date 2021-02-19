@@ -1,4 +1,4 @@
-# IoT_Fianl_Project
+# IoT
 Lab monitor &amp; air conditioner control.
 ##   需求：
 能夠在各處透過手機開啟實驗室冷氣，讓自己到達實驗室時，享受非常舒適的環境。並且能夠知道實驗室溫濕度＆是否有人進出實驗室。
