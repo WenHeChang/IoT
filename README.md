@@ -4,7 +4,7 @@ Lab monitor &amp; air conditioner control.
 能夠在各處透過手機開啟實驗室冷氣，讓自己到達實驗室時，享受非常舒適的環境。並且能夠知道實驗室溫濕度＆是否有人進出實驗室。
 
 ##   達成：
-我們可以透過Line bot 利用DTH22，查看我們實驗室的溫濕度，並且可以遠端開啟實驗室的冷氣（開：open；關：close）；透過鏡頭，搭配Motion套件，當實驗室有人進出時，我們將拍下進出實驗室的人，透過Line Notify發送到我們的Line裡面。
+我們可以透過Line bot 利用DTH22，查看我們實驗室的溫濕度，並且可以遠端開啟實驗室的冷氣（開：open；關：close）<應改成修改字串比對即可turn on/turn off> ；透過鏡頭，搭配Motion套件，當實驗室有人進出時，我們將拍下進出實驗室的人，透過Line Notify發送到我們的Line裡面。
 （Line是我們生活中相當普及的軟體，透過Line bot可以快速地對我們的系統操作與推播資訊。 一方面只是單純因為我還沒玩過Line bot 所以想玩玩看。 另外也可以玩玩看Line Notify，若我們Device沒有架設Web service 也能很方便使用Line所提供的服務）
 
 ##   所需材料：
